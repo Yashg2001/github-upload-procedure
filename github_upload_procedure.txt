@@ -1,0 +1,16 @@
+git init
+git config --global user.name 'Yash Gupta'
+git config --global user.email 'yash9785115297@gmail.com'
+git add .
+git commit
+          press i to move in insert mode
+          remove hash from intial commit line
+          again press i to come out from insert mode
+          enter :wq to come out from window
+git remote add
+git push -u origin master
+touch Readme.md
+               open readme file and enter information about the project
+git add .
+git commit -m 'Added readme'
+git push   
