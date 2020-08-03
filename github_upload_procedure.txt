@@ -5,7 +5,7 @@ git add .
 git commit
           press i to move in insert mode
           remove hash from intial commit line
-          again press i to come out from insert mode
+          press esc to come out from insert mode
           enter :wq to come out from window
 git remote add
 git push -u origin master
